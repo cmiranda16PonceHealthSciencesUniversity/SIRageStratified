@@ -32,7 +32,7 @@ simulateSIRmultiPopICUcompartment=function(R0default,  R0init, popParamsIn, rest
   I=100000 #total number of infected individuals
   year=365 #year
   recoverytime=14 #recovery time in days. Taken to be 14 day
-  N=totalPop=324356000 #US population, last census
+  N=totalPop=3100000 #324356000 #US population, last census
   
   
   iif=1:free.bracket #index of the free age bracket
